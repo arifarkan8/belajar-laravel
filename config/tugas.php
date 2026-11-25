@@ -104,5 +104,13 @@ return [
                 ['jenis' => 'tugas', 'nama' => 'Export Excel (CSV) Laporan Buku', 'url' => '/perpus/laporan-buku/excel?status=Semua'],
             ],
         ],
+        [
+            'nomor' => 18,
+            'judul' => 'Git dan GitHub',
+            'items' => [
+                ['jenis' => 'tugas', 'nama' => 'Halaman Kontak Kampus (cabang fitur-kontak)', 'url' => '/kontak'],
+                ['jenis' => 'tugas', 'nama' => 'Repositori GitHub belajar-laravel (publik)', 'url' => 'https://github.com/arifarkan8/belajar-laravel'],
+            ],
+        ],
     ],
 ];
